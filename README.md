@@ -2,9 +2,9 @@
 This project aims to classify music genres using a Decision Tree Classifier model implemented in Python. The project utilizes the scikit-learn library.
 
 ## Requirements
-Python 3.x
-pandas
-scikit-learn
+- Python 3.x
+- pandas
+- scikit-learn
 
 ## Usage
 - Place the music dataset in CSV format (music.csv) in the same directory as the code.
